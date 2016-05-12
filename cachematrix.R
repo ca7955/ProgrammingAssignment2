@@ -1,7 +1,3 @@
-## Put comments here that give an overall description of what your
-## functions do
-
-## Write a short comment describing this function
 # makeCacheMatrix is a function and its puspose is to store a martix and a cached value of the inverse of the
 # set           set the value of a matrix
 # get           get the value of a matrix
